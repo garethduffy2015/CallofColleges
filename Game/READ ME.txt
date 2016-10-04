@@ -1,0 +1,7 @@
+Double Click on Game.exe to launch the game.
+
+W,A,S,D - to move
+
+Mouse - to aim
+
+Left click - to shoot
